@@ -1,0 +1,5 @@
+Name: Oladele Tobiloba Emmanuel
+Email:tobiemma200@gmail.com
+Slack Username:Tobiloba
+Tracks:frontend,design
+Courses:html,css,javascript,design
